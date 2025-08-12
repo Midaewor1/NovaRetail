@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nova Retail SQL Analysis
 
 ## Overview
@@ -147,3 +148,6 @@ nova-retail-analysis/
 ├── tableau/
 │   └── dashboard_screenshots.png
 ```
+=======
+# Midaewor
+>>>>>>> 7e0d6f7e1e6da3c3609c2534c58fce1fe9e3c75b
