@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Nova Retail SQL Analysis
 
 ## Overview
@@ -134,20 +133,3 @@ Segments customers into Platinum, Gold, Silver, Bronze.
 
 ---
 
-## Recommended File Structure
-```
-nova-retail-analysis/
-│
-├── README.md
-├── sql/
-│   ├── 1_avg_order_value.sql
-│   ├── 2_top_customers.sql
-│   └── ...
-├── data/
-│   └── nova_retail_clean.csv
-├── tableau/
-│   └── dashboard_screenshots.png
-```
-=======
-# Midaewor
->>>>>>> 7e0d6f7e1e6da3c3609c2534c58fce1fe9e3c75b
